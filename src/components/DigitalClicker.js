@@ -3,7 +3,7 @@ import React from 'react'
 class DigitalClicker extends React.Component {
 
   constructor() {
-    
+
   }
   clicked = () => {
     this.setState((previousState) => {
